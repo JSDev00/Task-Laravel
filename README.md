@@ -3,4 +3,5 @@
 
 ### `composer install`
  ### `php artisan mi:f`
- ### `php artisan ser`
+ ### `npm run dev`
+  ### `php artisan ser`
